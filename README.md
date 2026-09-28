@@ -47,8 +47,6 @@ Key packages: `forecast`, `tseries`, `trend`, `Kendall`, `readr`.
 | --- | --- |
 | `India Temperature.R` | Main analysis: tests, differencing, model fitting, forecast |
 | `Datasets/` | Source temperature data (22 MB CSV) |
-| `Plots/` | Generated figures |
-| `Tangents/` | Exploratory side analyses, not part of the main result |
 | `Stat_4_Project.pdf` | Written report |
 | `Stat_4_presentation.pdf` | Presentation slides |
 | `renv.lock` | Pinned package versions |
