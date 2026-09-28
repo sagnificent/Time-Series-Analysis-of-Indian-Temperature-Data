@@ -49,4 +49,13 @@ Key packages: `forecast`, `tseries`, `trend`, `Kendall`, `readr`.
 | `Datasets/` | Source temperature data (22 MB CSV) |
 | `Stat_4_Project.pdf` | Written report |
 | `Stat_4_presentation.pdf` | Presentation slides |
+| `SM 4 - Project.Rproj` | RStudio project file — opening it sets the working directory |
 | `renv.lock` | Pinned package versions |
+
+## Authors
+
+Sagnik Roy, Sourath Biswas, and Sahitya Kumbhakar.
+
+## License
+
+Released under the [MIT License](LICENSE).

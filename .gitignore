@@ -1,4 +1,15 @@
+# R
+.Rproj.user/
+.Rhistory
+.RData
+.Ruserdata
+
+# macOS
+.DS_Store
+
+# Editor backups
+*.save
+
+# Local outputs and exploratory side work
 Plots/
 Tangents/
-SM 4 - Project.Rproj
-.Rproj.user
